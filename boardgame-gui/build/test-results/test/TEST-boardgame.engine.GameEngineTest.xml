@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boardgame.engine.GameEngineTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-05-27T14:14:09" hostname="DESKTOP-OMQ5HMD" time="0.01">
+  <properties/>
+  <testcase name="testGetLevel()" classname="boardgame.engine.GameEngineTest" time="0.001"/>
+  <testcase name="testGetState()" classname="boardgame.engine.GameEngineTest" time="0.001"/>
+  <testcase name="testHit()" classname="boardgame.engine.GameEngineTest" time="0.0"/>
+  <testcase name="testInit()" classname="boardgame.engine.GameEngineTest" time="0.001"/>
+  <testcase name="testGetSize()" classname="boardgame.engine.GameEngineTest" time="0.001"/>
+  <testcase name="getCellState()" classname="boardgame.engine.GameEngineTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
